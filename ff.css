@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0.9%;
+}
+fieldset{
+    background-color: aquamarine;
+    color: aqua;
+    background-image: -moz-element("IMAGE.JPG");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    border-radius: 0cqmin;
+}
+body{
+    background-color: cyan;
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: green;
+    font-family: serif;
+    font-weight: 400;
+    
+}

@@ -1,0 +1,43 @@
+*{
+    padding: 10px;
+    margin: 12px;
+}
+body{
+background-color: cyan;
+    color: dimgrey;
+
+}
+nav{
+    color: darkgrey;
+    float: right;
+    font-style: unset;
+
+}
+fieldset {
+    background-color: lightskyblue;
+    color: slategray;
+    height: 100%;
+    width: 80%;
+    background-image: url(nn.png);
+
+    
+}
+    
+span{
+    font-style: initial;
+    font-size: large;
+    background-image: url(gan.JPEG);
+
+
+}
+h1{
+    color: black;
+    background-image: url(forest.JPEG);
+    
+    background-image: url(nn.png);
+}
+
+
+
+
+}
